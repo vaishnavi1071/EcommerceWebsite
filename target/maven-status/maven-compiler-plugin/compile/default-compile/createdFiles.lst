@@ -1,0 +1,14 @@
+com\mycom\helper\helper1.class
+com\mycom\servlet\productOperationServlet.class
+com\mycom\DAO\CategoryDao.class
+com\mycom\servlet\swami.class
+com\mycom\entity\Category.class
+com\mycom\helper\FactoryProvider.class
+com\mycompany\e\commercewebsite\JakartaRestConfiguration.class
+com\mycompany\e\commercewebsite\resources\JakartaEE10Resource.class
+com\mycom\servlet\newLoginServlet.class
+com\mycom\servlet\LogoutServlet.class
+com\mycom\DAO\ProductDao.class
+com\mycom\entity\Product.class
+com\mycom\DAO\UserDao.class
+com\mycom\entity\User.class
